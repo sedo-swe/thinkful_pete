@@ -57,11 +57,6 @@ footer {
   text-align: center;
 }
 
-.section-padding {
-  padding: 50px 0;
-}
-
-
 header > div > nav {
   margin: 0 0 10px 10px;
   text-align: center;
@@ -92,4 +87,13 @@ li > a {
 
 li > a:hover {
   color: #f77f00;
+}
+
+.p-portfolio {
+  line-height: 1.5;
+  text-align: left;
+}
+
+.section-padding {
+  padding: 50px 0;
 }
